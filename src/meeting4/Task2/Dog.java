@@ -1,4 +1,4 @@
-package meeting4.rzutowanie.Task2;
+package meeting4.Task2;
 
 public class Dog extends Animal{
 

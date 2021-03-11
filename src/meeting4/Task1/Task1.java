@@ -1,4 +1,4 @@
-package meeting4.rzutowanie.Task1;
+package meeting4.Task1;
 
 public class Task1 {
 
